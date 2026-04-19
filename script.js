@@ -1,5 +1,5 @@
 
-//Script to search whic color is missing.
+//Script to search which color is missing.
 
 const colors = ["🟥", "🟧", "🟨", "🟩", "🟦", "🟪", "🟫"];
 
